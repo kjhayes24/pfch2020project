@@ -1,7 +1,7 @@
 import lyricsgenius
 import json
 #Make sure to get your API key from Genius before running the code.
-genius = lyricsgenius.Genius("vZVuJZ30oA3QTaSwfqjhdn0ZzqPf76aET12v83bjIs2SUJkE4IU0E57BoSMsWNSx")
+genius = lyricsgenius.Genius("[insert API key]")
 #Exclude which songs are pulled via exlcuding certain terms.
 genius.excluded_terms = ["Remix", "Live"]
 
