@@ -1,2 +1,2 @@
-# pfch2020project
-Repository for my work on my pfch2020 class project.
+# Songwriter:RE
+An exploratory generative text project that uses python to remix Lorde lyrics pulled from a random assortment of 20 songs collected from via Genius. This project seeks to analyze and explore the creative possibilities python presents for interacting with lyrical content. Each text file created through this code becomes a unique, personalized Lorde song for the user. Run the code several times to create your own collection of custom Lorde songs just for you!
